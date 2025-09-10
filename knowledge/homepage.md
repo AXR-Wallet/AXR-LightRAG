@@ -83,7 +83,7 @@ Begin your crypto journey with as little as $10, pay with a card or bank account
 
 Frequently asked questions about our crypto currency app. The crypto security for conducting trusted transactions.
 
- [ Didn't find the answer? Check our FAQ ](/faq)###  [ What is Axir Wallet? ](#) 
+ [ Didn't find the answer? Check our FAQ ](/knowledge/faq.md)###  [ What is Axir Wallet? ](#) 
 
 Axir Wallet is a secure and easy-to-use platform for managing and transferring cryptocurrency assets.
 
