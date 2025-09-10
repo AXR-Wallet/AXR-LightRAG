@@ -45,12 +45,13 @@ local_neo4jWorkDir/
 neo4jWorkDir/
 
 # Data & Storage
-inputs/
+#inputs/
+data/inputs/__enqueued__
 rag_storage/
 examples/input/
 examples/output/
 output*/
-data/
+#data/
 
 # Miscellaneous
 .DS_Store

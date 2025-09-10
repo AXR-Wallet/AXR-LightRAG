@@ -5,8 +5,8 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-      tags:
-        - ghcr.io/hkuds/lightrag:latest
+#      tags:
+#        - ghcr.io/hkuds/lightrag:latest
     ports:
       - "${PORT:-9621}:9621"
     volumes:
